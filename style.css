@@ -7,17 +7,9 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-#thisguylt { 
-
-
-}
-
-#thisguyrt {
-
-}
-
-#main-section {
-
+.row  {
+    margin-right:0px !important;
+    margin-left:0px !important;
 }
 
 .fill {
