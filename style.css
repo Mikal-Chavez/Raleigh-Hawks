@@ -1,11 +1,20 @@
 body {
     margin: 0;
-    /*padding: 0;*/
-    padding-top: 100px;
+    padding: 0;
+    padding-top: 62px;
     background: #FFF;
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+}
+
+.aboutBody {
+    
+}
+
+.donateWidget {
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .footer-bs {

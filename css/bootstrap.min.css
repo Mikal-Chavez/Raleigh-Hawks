@@ -12,6 +12,7 @@ html {
 
 body {
     margin: 0;
+    padding: 100px;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
@@ -4883,7 +4884,7 @@ select[multiple].input-group-sm > .form-control, select[multiple].input-group-sm
     }
 
         .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
-            color: #333;
+            color: #AA1113;
             background-color: transparent;
         }
 
